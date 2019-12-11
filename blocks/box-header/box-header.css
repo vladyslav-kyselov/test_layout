@@ -1,0 +1,17 @@
+.box-header {
+    background-image: url("../../src/images/header_background.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 100vh;
+
+    height: 990px;
+}
+
+.box-header__header, .box-header__box-title {
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.box-header__box-title {
+    position: absolute;
+}

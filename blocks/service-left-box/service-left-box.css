@@ -1,0 +1,48 @@
+.service-left-box {
+    border-bottom: 1px solid whitesmoke;
+    padding-top: 60px;
+    margin-left: 170px;
+    padding-left: 80px;
+    flex: 1;
+}
+
+.service-left-box__headline {
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.service-left-box__headline_first-letter {
+    display: block;
+    font-size: 40px;
+}
+
+.service-left-box__text {
+    font-size: 14px;
+    width: 80%;
+    line-height: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.service-left-box__button {
+    background-color: #222222;
+    color: white;
+    display: inline-block;
+    border: none;
+    border-radius: .3em;
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1), inset 0 -0.25em 0 rgba(0, 0, 0, 0.25), 0 0.25em 0.25em rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+    font-weight: 300;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    padding: .5em 1.5em .75em;
+    position: relative;
+    text-decoration: none;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.25);
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-size: 13px;
+}

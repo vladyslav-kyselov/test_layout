@@ -1,0 +1,31 @@
+.article {
+    margin-right: 0px;
+}
+
+.article__img {
+    width: 250px;
+    height: 150px;
+}
+
+.article__title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.article__author {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: darkgrey;
+}
+
+.article__text {
+    margin-top: 20px;
+    font-size: 14px;
+    width: 290px;
+}
+
+.article__text_red {
+    color: red;
+}

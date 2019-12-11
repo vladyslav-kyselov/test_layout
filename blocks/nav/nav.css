@@ -1,0 +1,11 @@
+.nav {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.nav__img {
+    width: 46px;
+    height: 46px;
+}

@@ -1,0 +1,25 @@
+.box-title {
+    margin-top: 130px;
+    width: 30%;
+}
+
+.box-title__title {
+    font-size: 40px;
+    color: white;
+}
+
+.box-title_first-letter {
+    font-size: 85px;
+    display: block;
+}
+
+.box-title__underline {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.box-title__text {
+    color: white;
+    font-size: 16px;
+    line-height: 30px;
+}

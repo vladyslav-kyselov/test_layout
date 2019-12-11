@@ -1,0 +1,12 @@
+.main {
+    padding-top: 100px;
+}
+
+.main__box-all-article {
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.main__box-service {
+    border-top: 1px solid whitesmoke;
+}

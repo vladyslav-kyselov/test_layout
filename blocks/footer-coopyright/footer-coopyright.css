@@ -1,0 +1,15 @@
+.footer-copyright__title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.footer-copyright__text {
+    margin-top: 10px;
+    font-size: 12px;
+    line-height: 5px;
+}
+
+.footer-copyright__text_red {
+    color: red;
+}
+

@@ -1,0 +1,5 @@
+.box-article {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,11 @@
+.block-icon{
+    flex-basis: 40%;
+    border: 1px solid whitesmoke;
+    padding: 25px 15px 20px;
+}
+
+.block-icon__text {
+    font-size: 16px;
+    margin-top: 30px;
+    font-weight: bold;
+}

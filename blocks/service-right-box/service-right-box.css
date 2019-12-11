@@ -1,0 +1,10 @@
+.service-right-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    text-align: center;
+    margin-right: 170px;
+    padding-right: 80px;
+    border-bottom: 1px solid whitesmoke;
+    flex: 1;
+}

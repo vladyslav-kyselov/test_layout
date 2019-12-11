@@ -1,0 +1,12 @@
+.menu {
+    display: flex;
+}
+
+.menu__item {
+    margin-left: 10px;
+}
+
+.menu__link {
+    color: white;
+    font-size: 12px;
+}
